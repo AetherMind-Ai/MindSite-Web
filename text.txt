@@ -1,0 +1,3 @@
+Prompt: Build a fully responsive tourism company website for Maka Fly, an Egyptian travel agency dedicated to showcasing the beauty, culture, and history of Egypt. The design should be visually appealing, mobile-friendly, and feature stunning high-quality images from Pexels.com to represent various destinations and experiences (e.g. pyramids, Nile cruises, Red Sea diving). The site should include a hero section, services, destination highlights, testimonials, and a contact form.
+
+Slides link: https://docs.google.com/presentation/d/1spX6OVVysOXVjN9u-1Msn4WCc3Y8otgbCRRHDey_9Ac/edit?usp=sharing
